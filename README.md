@@ -232,4 +232,3 @@ plt.bar(top5_year.release_year, top5_year.title)
 plt.show()
 #Clearly, 2018 was the year when highest number of Netflix titles were released, followed by 2017, 2019, 2016 and 2015.
 No description has been provided for this image
-
